@@ -1,0 +1,17 @@
+.input {
+    font-size: 20px; 
+}
+
+body{
+    color:black;
+
+}
+.bg-dark {
+    background-color: white!important;
+}
+.text-white {
+    color: black!important;
+}
+.main-text {
+    color:#0B5ED7;
+}
